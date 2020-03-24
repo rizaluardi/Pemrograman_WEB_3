@@ -16,7 +16,7 @@ API key = Gunakan API key anda masing-masing
 
 Berikut adalah Folder yang kami gunakan :
 
-* [latihan1](https://github.com/rizaluardi/Pemrograman_WEB_3/latihan1) : API TheMovieDB
+* [latihan1](https://github.com/rizaluardi/Pemrograman_WEB_3/tree/master/latihan1) : API TheMovieDB
 
 ## Create Simple Rest API in PHP
 
@@ -25,7 +25,7 @@ Berikut adalah tutorial Membuat Simple Rest API pada PHP Dengan CRUD
 
 Berikut adalah Folder yang kami gunakan :
 
-* [api](https://github.com/rizaluardi/Pemrograman_WEB_3/api) : Create Simple Rest API in PHP
+* [api](https://github.com/rizaluardi/Pemrograman_WEB_3/tree/master/api) : Create Simple Rest API in PHP
 
 ## Authors 
 
