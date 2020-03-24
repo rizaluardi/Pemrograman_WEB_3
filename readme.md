@@ -1,6 +1,7 @@
 # Pemrograman Web 3 Semester 4 DIV Teknik Informatika 2A
 
 WEB SERVICE (API)
+Lecturer/Dosen :  M. Harry K Saputra, S.T., M.T.I
 
 ## API The Movie DB
 
