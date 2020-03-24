@@ -4,13 +4,13 @@
 	<title>header</title>
 </head>
 <body>
-<form action="">
-<input type="text" name="titel" placeholder="Type Title Here">
+<form action="cari.php">
+<input type="text" name="id" placeholder="Type Title Here">
 <select>
 	<option>Movie</option>
 	<option>TV Series</option>
 </select>
-<button type="submit" name="" value="CARI">CARI
+<button type="submit" value="CARI">CARI
 </button></form>
 <ul>
 <li>
